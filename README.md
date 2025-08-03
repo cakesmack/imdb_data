@@ -7,7 +7,7 @@ This project explores a dataset of the top 1000 movies from IMDb to uncover key 
 * **Interactive Visualization:** Tableau
 
 * Explore the full interactive dashboard on Tableau Public:
-[**IMDb Movie Analysis Dashboard**](**https://public.tableau.com/app/profile/craig.mackenzie/viz/IMDB_data/Dashboard1?publish=yes**)
+[**IMDb Movie Analysis Dashboard**](https://public.tableau.com/app/profile/craig.mackenzie/viz/IMDB_data/Dashboard1?publish=yes)
 
 <img width="709" height="746" alt="image" src="https://github.com/user-attachments/assets/e3fd3676-a155-4b70-afab-f9343deadfc3" />
 
